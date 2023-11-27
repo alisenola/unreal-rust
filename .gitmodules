@@ -1,3 +1,0 @@
-[submodule "example/RustExample"]
-	path = example/RustExample
-	url = https://gitlab.com/maikklein/rustexample.git
